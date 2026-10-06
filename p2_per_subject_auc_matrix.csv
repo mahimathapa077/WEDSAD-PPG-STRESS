@@ -1,0 +1,13 @@
+feature_set,normalisation,Logistic Regression,SVM-RBF,Random Forest,XGBoost
+HR only (P1 HR),raw,0.847,0.774,0.789,0.788
+HR only (P1 HR),z-scored,0.847,0.837,0.825,0.837
+"Macro P1 (HR,SDNN,RMSSD)",raw,0.928,0.921,0.84,0.821
+"Macro P1 (HR,SDNN,RMSSD)",z-scored,0.905,0.869,0.867,0.887
+"Macro P2 (HR,SDNN,RMSSD)",raw,0.911,0.903,0.875,0.852
+"Macro P2 (HR,SDNN,RMSSD)",z-scored,0.903,0.872,0.861,0.871
+Old = P1 (macro+notch+CWT),raw,0.942,0.941,0.927,0.928
+Old = P1 (macro+notch+CWT),z-scored,0.915,0.898,0.939,0.941
+New = P2 (macro+APPG+CWT),raw,0.969,0.975,0.923,0.951
+New = P2 (macro+APPG+CWT),z-scored,0.978,0.964,0.976,0.973
+Old on P1's original windows (check),raw,0.947,0.914,0.933,0.937
+Old on P1's original windows (check),z-scored,0.932,0.921,0.944,0.945

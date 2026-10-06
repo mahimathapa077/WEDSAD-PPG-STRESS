@@ -1,0 +1,40 @@
+{
+  "note": "EXPLORATORY post-hoc; single run",
+  "zmode": "session",
+  "calib_s": 300,
+  "p2_constants": {
+    "UP": 4,
+    "SG_WIN": 15,
+    "SG_POLY": 3,
+    "APPG_PRE_S": 0.1,
+    "APPG_POST_MAX_S": 0.45,
+    "BOOT": 1000
+  },
+  "p1_constants": {
+    "SQI_MIN": 0.8,
+    "MIN_BEATS": 30,
+    "MIN_DIFFS": 15,
+    "MIN_NOTCH_RATE": 0.5,
+    "WIN": 3840,
+    "STEP": 1920,
+    "SEED": 0
+  },
+  "stress_subjects": [
+    3,
+    6,
+    9,
+    10,
+    13,
+    14,
+    15,
+    16,
+    17
+  ],
+  "models": [
+    "Logistic Regression",
+    "SVM-RBF",
+    "Random Forest",
+    "XGBoost"
+  ],
+  "runtime_s": 339.6
+}

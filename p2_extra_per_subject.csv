@@ -1,0 +1,9 @@
+feature_set,normalisation,Logistic Regression,SVM-RBF,Random Forest,XGBoost
+Macro P2 (existing),raw,0.911,0.903,0.875,0.852
+Macro P2 (existing),z-scored,0.903,0.872,0.861,0.871
+Macro P2 + CWT (NEW),raw,0.919,0.945,0.898,0.907
+Macro P2 + CWT (NEW),z-scored,0.911,0.886,0.879,0.888
+Macro P2 + APPG (NEW),raw,0.964,0.968,0.919,0.922
+Macro P2 + APPG (NEW),z-scored,0.964,0.969,0.981,0.971
+New = P2 all (existing),raw,0.969,0.975,0.923,0.951
+New = P2 all (existing),z-scored,0.978,0.964,0.976,0.973
