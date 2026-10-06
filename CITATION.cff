@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: "If you use this code or the results, please cite the manuscript below."
-title: "Evaluating Beat-Shape and Wavelet Features Against Interval Features for Wrist PPG Stress Classification: A Two-Stage Comparative Study on WESAD"
+title: "WESAD wrist-PPG stress classification: beat-shape and wavelet features versus interval features"
 type: software
 authors:
   - family-names: Thapa
