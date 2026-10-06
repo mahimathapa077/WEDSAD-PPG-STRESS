@@ -1,6 +1,6 @@
 # WESAD wrist-PPG stress classification: beat-shape and wavelet features versus interval features
 
-Analysis code and output files for the manuscript **"Evaluating Beat-Shape and Wavelet Features Against Interval Features for Wrist PPG Stress Classification: A Two-Stage Comparative Study on WESAD"** (Mahima Thapa, 2026).
+Analysis code and output files for the manuscript **"WESAD wrist-PPG stress classification: beat-shape and wavelet features versus interval features"** (Mahima Thapa, 2026).
 
 The study asks one narrow question on one public dataset: on the same windows and the same held-out subjects, do beat-shape and wavelet features add information to heart rate and interval features for classifying baseline versus stress from wrist photoplethysmography (PPG)?
 
