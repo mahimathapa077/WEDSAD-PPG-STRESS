@@ -1,0 +1,22 @@
+# Data (never upload WESAD)
+WESAD/
+*.pkl
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS and editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# LaTeX build files
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz

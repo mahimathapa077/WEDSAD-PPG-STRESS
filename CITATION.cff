@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this code or the results, please cite the manuscript below."
+title: "Evaluating Beat-Shape and Wavelet Features Against Interval Features for Wrist PPG Stress Classification: A Two-Stage Comparative Study on WESAD"
+type: software
+authors:
+  - family-names: Thapa
+    given-names: Mahima
+    email: thapahima077@gmail.com
+    affiliation: "Independent Researcher, Kathmandu, Nepal"
+repository-code: "https://github.com/mahimathapa077/WEDSAD-PPG-STRESS"
+license: MIT
+date-released: 2026-10-06
+keywords:
+  - photoplethysmography
+  - WESAD
+  - stress detection
+  - wearable sensors
